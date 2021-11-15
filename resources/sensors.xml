@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Sensors configuration -->
+<Sensor>
+    <type>Temp</type>
+    <parameters name = "abc" range="50" freq="1000" n="10"></parameters>
+</Sensor>
+<Sensor>
+    <type>Temp</type>
+    <parameters name = "xyz" range="10" freq="1500" n="10"></parameters>
+</Sensor>
+<Sensor>
+    <type>Temp</type>
+    <parameters name = "temp" range="1000" freq="5000" n="4"></parameters>
+</Sensor>
